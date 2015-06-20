@@ -1,11 +1,11 @@
-# Dropbox Uploader
+# Dropbox Sync
 
 Forked from https://github.com/andreafabrizi/Dropbox-Uploader
 
 This script is now modified to support OAuth 2.0, multi user access with unique accounts and updated dropbox API. 
 
 
-Dropbox Uploader is a **BASH** script which can be used to upload, download, delete, list files (and more!) from **Dropbox**, an online file sharing, synchronization and backup service. 
+Dropbox Sync is a **BASH** script which can be used to upload, download, delete, list files (and more!) from **Dropbox**, an online file sharing, synchronization and backup service. 
 
 It's written in BASH scripting language and only needs **cURL**.
 
