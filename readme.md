@@ -27,14 +27,15 @@ It's written in BASH scripting language and only needs **cURL**.
 $ wget https://code.stats.io/dropbox-sync.sh
 $ chmod 755 dropbox-sync.sh
 $ mv dropbox-sync.sh /usr/bin
-$ echo "dropbox_oauth_token" > /home/username/.dropbox````
+$ echo "dropbox_oauth_token" > /home/username/.dropbox
+````
 
 ## Usage
 
 The syntax is quite simple:
 
 ```
-./dropbox-sync.sh COMMAND [PARAMETERS]...
+dropbox-sync.sh COMMAND [PARAMETERS]
 
 [%%]: Optional param
 <%%>: Required param
